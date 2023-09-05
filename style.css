@@ -1,0 +1,37 @@
+/* Style for the header */
+header {
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
+
+/* Style for the main content */
+main {
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+}
+
+/* Style for the job listings */
+#job-list {
+    flex: 1;
+    padding: 10px;
+    background-color: #f0f0f0;
+}
+
+/* Style for the job details */
+#job-details {
+    flex: 2;
+    padding: 10px;
+    background-color: #f7f7f7;
+}
+
+/* Style for the footer */
+footer {
+    text-align: center;
+    padding: 10px;
+    background-color: #333;
+    color: white;
+}
+
